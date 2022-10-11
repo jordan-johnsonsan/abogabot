@@ -16,9 +16,13 @@ El cliente (despacho de abogados) solicita una pagina web con soporte mobil y pc
 - Recibir pagos.
 - Actualizar el proceso de la demanda.
 
+![Diagrama de flujo](./diagramaDeFlujo.png)
+
 ## 2. Buyer persona
+![Buyer persona](./buyerPersona.png)
 
 ## 3. Publico objetivo
+![Publico objetivo](./publicoObjetivo.png)
 
 ## 4. UX
 
